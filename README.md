@@ -2,6 +2,7 @@
 ## Info
 - Toto blokuje stránky, které kukaj to má na svém webu jako reklamu.
 - Tutíž neblokuje to reklamy, ale ty weby na kterých je reklama
+- Některé zdroje to blokuje, není to dokonalé
 
 ## Postup
 0. Doporučuji si stáhnout [malwarebytes](https://chromewebstore.google.com/detail/malwarebytes-browser-guar/ihcjicgdanjaechkgeegckofjjedodee) rozšíření do chromu
