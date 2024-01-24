@@ -30,6 +30,4 @@
 4. Soubor zpět vlož do `C:\Windows\System32\drivers\etc`
 5. Do CMD napiš `ipconfig /flushdns`
 
-
-
-
+- Pokud najdete další odkaz který zde není, pošlete ho na mail krlaicekgamer@gmail.com
