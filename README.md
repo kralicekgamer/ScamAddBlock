@@ -33,4 +33,4 @@
 5. Do CMD napiš `ipconfig /flushdns`
 
 - Testováno na windows 11, v prohlížeči brave, s rozšířením malwarebytes
-- Pokud najdete další odkaz který zde není, pošlete ho na mail krlaicekgamer@gmail.com
+- Pokud najdete další odkaz který zde není, pošlete ho na mail kralicekgamer@gmail.com
