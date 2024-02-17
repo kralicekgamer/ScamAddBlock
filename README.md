@@ -5,7 +5,7 @@
 - Některé zdroje to blokuje, není to dokonalé
 
 ## Postup
-0. Doporučuji si stáhnout [malwarebytes](https://chromewebstore.google.com/detail/malwarebytes-browser-guar/ihcjicgdanjaechkgeegckofjjedodee) rozšíření do chromu
+0. Doporučuji si stáhnout přídavný addblock (!!NEPOUŽÍVAT MALWAREBYTES!! freezne se stránka)
 1. Jdi do `C:\Windows\System32\drivers\etc`
 2. Přesuň si soubor `hosts` na plochu
 3. Do souboru přidej:
@@ -35,5 +35,8 @@
 4. Soubor zpět vlož do `C:\Windows\System32\drivers\etc`
 5. Do CMD napiš `ipconfig /flushdns`
 
-- Testováno na windows 11, v prohlížeči brave, s rozšířením malwarebytes
+## Testováno
+- Windows 11: brave, edge(addblock), edge, chromium(addblock), chromium
+- Windows 10: brave, edge(addblock), edge, chromium(addblock), chromium
+
 - Pokud najdete další odkaz který zde není, pošlete ho na mail kralicekgamer@gmail.com
