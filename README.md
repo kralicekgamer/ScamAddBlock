@@ -30,7 +30,12 @@
 127.0.0.1 areconform.com
 127.0.0.1 mixdrop.ag
 127.0.0.1 botanysummarytables.com
-127.0.0.1 gamerafflezone.com
+127.0.0.1 gamerafflezone.com 
+127.0.0.1 synottip.cz
+127.0.0.1 zaltaumi.net
+127.0.0.1 exposepresentimentunfriendly.com
+127.0.0.1 zoogripi.com
+127.0.0.1 sakuftaurgo.com
 ```
 4. Soubor zpět vlož do `C:\Windows\System32\drivers\etc`
 5. Do CMD napiš `ipconfig /flushdns`
