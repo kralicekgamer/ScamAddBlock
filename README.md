@@ -36,6 +36,7 @@
 127.0.0.1 exposepresentimentunfriendly.com
 127.0.0.1 zoogripi.com
 127.0.0.1 sakuftaurgo.com
+127.0.0.1 raigauho.com
 ```
 4. Soubor zpět vlož do `C:\Windows\System32\drivers\etc`
 5. Do CMD napiš `ipconfig /flushdns`
