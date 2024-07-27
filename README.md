@@ -1,4 +1,4 @@
-# KukajToAddBlock
+# ScamAddBlock
 ## Info
 - Toto blokuje stránky, které mají weby jako např kukaj.to na svém webu
 - Tutíž neblokuje to reklamy, ale ty weby na kterých je reklama
